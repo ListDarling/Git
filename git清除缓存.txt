@@ -1,0 +1,4 @@
+    第一步：cd 到项目目录
+    第二步：git rm -r --cached .
+    第三步：git add .
+    第四步：git commit -m 'update .gitignore'
